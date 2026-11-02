@@ -17,5 +17,23 @@ Tilli Academy Onboarding
 * GitHub ID : https://github.com/JakkaSampath
 * GitHub Email ID : jakkasampath1@gmail.com
 
+- Name: Rama Murari Reddy
+- Github ID: murari123-byte
+- Github Email: avatalaramamurarireddy@gmail.com
 
+Batch 2
+- Name: Sai Manish Ramasani
+- Github ID: SaiManish3
+- Github Email: saimanishramasani@gmail.com
 
+- Name: Borra Harsha Vardhan
+- Github ID: harshaborra02
+- Github Email: borraharshavardhan4210@gmail.com
+
+- Name: Shaik Abdulrashid
+- Github ID: Abdulrashid-shaik
+- Github Email: shaik.rashid005@gmail.com
+
+- Name: Govardhan Naidu Palla
+- Github ID: vardhanpalla
+- Github Email: vardhanpalla916@gmail.com
